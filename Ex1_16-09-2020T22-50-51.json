@@ -1,0 +1,37 @@
+{
+    "id": 825,
+    "name": "Tether",
+    "symbol": "USDT",
+    "slug": "tether",
+    "num_market_pairs": 7599,
+    "date_added": "2015-02-25T00:00:00.000Z",
+    "tags": [
+        "store-of-value",
+        "payments",
+        "stablecoin",
+        "stablecoin-asset-backed"
+    ],
+    "max_supply": null,
+    "circulating_supply": 14948443415.8939,
+    "total_supply": 15326312650.3153,
+    "platform": {
+        "id": 1027,
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "slug": "ethereum",
+        "token_address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    },
+    "cmc_rank": 3,
+    "last_updated": "2020-09-16T20:49:27.000Z",
+    "quote": {
+        "USD": {
+            "price": 1.00332750919,
+            "volume_24h": 50955716307.3155,
+            "percent_change_1h": -0.00330497,
+            "percent_change_24h": 0.158591,
+            "percent_change_7d": 0.110409,
+            "market_cap": 14998184498.736483,
+            "last_updated": "2020-09-16T20:49:27.000Z"
+        }
+    }
+}
